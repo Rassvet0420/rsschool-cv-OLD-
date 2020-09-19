@@ -1,0 +1,294 @@
+body {
+    width: 1024px;
+    margin: 0 auto;
+    
+}
+
+
+/* ############
+   ## HEADER ##
+   ############ */
+
+
+header {
+    height: 165px;
+    background: url('../rsschool-cv/Images/shadow_header.png') no-repeat center bottom;  
+}
+
+
+/* a {
+    font-family: 'Oswald', sans-serif;
+} */
+
+
+.header-menu {
+    margin-left: -14px;
+}
+
+
+.header-menu-item {
+    display: inline-block;
+    font-family: 'Oswald', sans-serif;
+    font-size: 27px;
+    margin: 7px;
+    text-align: center;
+    font-weight: 100;
+    text-decoration: none;
+    line-height: 5;
+    
+        
+}
+
+
+a:visited {
+    color: black;
+  }
+
+
+.header-menu-item:hover {
+    color: rgb(241, 30, 65);
+}
+
+
+/* ############
+   ##  MAIN  ##
+   ############ */
+
+  
+.profile {
+    width: 500px;
+}
+
+
+.profile-pic {
+    position: relative;
+    float: right;
+    
+}
+
+
+.profile h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+    font-weight: 700;  
+    margin: 45px 0 35px 0;
+}
+
+
+.profile p {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    margin: -10px 0px 14px 0px;
+}
+
+
+.contacts {
+    margin: 0px 0px 0px 0px;
+}
+
+
+.contacts h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+    font-weight: 700;  
+    margin: 45px 0 35px 0;
+}
+
+
+.contacts li {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    margin: -10px 0px 14px 0px;
+    
+}
+
+
+.contacts a {
+    text-decoration: none;
+}
+
+
+.contacts a:visited {
+    color: black;
+}
+
+
+.contacts a:hover {
+    color: rgb(241, 30, 65);
+}
+
+
+.my-goal {
+    width: 540px;
+    margin: 0px 0px 0px 0px;
+}
+
+
+.my-goal h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+    font-weight: 700;  
+    margin: 45px 0 35px 0;
+
+}
+
+
+.my-goal p {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    margin: -10px -25px 14px 0px;
+}
+
+
+.skills {
+    margin: 0px 0px 0px 0px;
+}
+
+
+.skills h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+    font-weight: 700;  
+    margin: 45px 0 35px 0;
+}
+
+
+.skills p {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    margin: -10px 0px 14px 0px;
+}
+
+
+.skills ul {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    margin: 25px 0px 40px 0px;
+}
+
+
+.code-example {
+    width: 450px;
+    height: 300px;
+    background: rgb(238, 238, 238);
+    border: 1px solid black;
+    overflow: auto;
+    margin: -52px 0 0 224px;
+}
+
+
+.code-location {
+    text-align: center;
+    padding: 108px;
+}
+
+
+.blue {
+    color: rgb(89, 130, 241);
+}
+
+
+.yellow {
+    color: yellow;
+}
+
+
+.orange {
+    color: orange;
+}
+
+
+.code h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+    font-weight: 700;  
+    margin: 45px 0 35px 0;
+}
+
+
+.code-example p {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    margin: -10px 0px 14px 0px;
+}
+
+
+.experience {
+    margin: 0px 0px 0px 0px; 
+}
+
+
+.experience h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+    font-weight: 700;  
+    margin: 45px 0 35px 0;
+}
+
+
+.experience p {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    margin: -10px 0px 14px 0px;
+}
+
+
+.education {
+    margin: 0px 0px 0px 0px; 
+}
+
+
+.education h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+    font-weight: 700;  
+    margin: 45px 0 35px 0;
+}
+
+
+.education p {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    margin: -10px 0px 14px 0px;
+}
+
+
+.english-level {
+    margin: 0px 0px 0px 0px; 
+}
+
+.english-level h2 {
+    font-family: 'Lato', sans-serif;
+    font-size: 25px;
+    font-weight: 700;  
+    margin: 45px 0 35px 0;
+}
+
+
+.english-level p {
+    font-family: 'Lato', sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+    margin: -10px 0px 14px 0px;
+}
+
+
+/* ############
+   ## FOOTER ##
+   ############ */
+
+
+footer {
+    width: 1024px;
+    height: 165px;
+    background: url('../rsschool-cv/Images/shadow_footer.png') no-repeat center center;   
+}
+
